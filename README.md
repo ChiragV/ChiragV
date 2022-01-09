@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi👋, I am Chirag Vithalani
 
+![](https://komarev.com/ghpvc/?username=chiragv&label=GitHub+profile+views)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white)](https://www.linkedin.com/in/chiragvithalani/)
 <!--
 **ChiragV/ChiragV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 

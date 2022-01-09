@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=chiragv&label=GitHub+profile+views)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white)](https://www.linkedin.com/in/chiragvithalani/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&amp;logo=google-chrome&amp;logoColor=white)](https://chiragv.github.io/)
 <!--
 **ChiragV/ChiragV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

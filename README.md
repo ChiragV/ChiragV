@@ -4,6 +4,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white)](https://www.linkedin.com/in/chiragvithalani/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&amp;logo=google-chrome&amp;logoColor=white)](https://chiragv.github.io/)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Nice+to+e-meet+you+!+;I+am+Software+Engineer.)](https://git.io/typing-svg)
+
 <!--
 **ChiragV/ChiragV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
